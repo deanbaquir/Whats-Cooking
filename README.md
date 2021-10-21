@@ -1,7 +1,7 @@
 # Whats-Cooking
 CS 4661 Data Science Project :)
 
-### (If unfamiliar with Github) Using Git Flow For Team, Use This
+### If unfamiliar w/ using Github in Team setting
 Use This [Video](https://www.youtube.com/watch?v=jhtbhSpV5YA) For Reference<br><br>
 Use The Following Command to create a branch, this will also switch over to the newly created branch\
 Branch Names Should Also Indicate Number Associated In Issues\
